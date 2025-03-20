@@ -1,8 +1,13 @@
 # Amy's Kitchen
 
-|  |  |
-| --- | --- |
-| <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/ak.png" alt="Amy's Kitchen" width="800"> | <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/IMG_7365.jpg" alt="Amy's Kitchen" width="600"> |
+<p align="center">
+  <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/ak.png" alt="Amy's Kitchen" width="800">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/IMG_7365.jpg" width="500">
+</p>
 
 
 ## Baked Legs & Thighs (Standalone)
