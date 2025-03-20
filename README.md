@@ -7,10 +7,13 @@
 
 
 
-# After-Hours Menu 
+
 <p align="center">
   <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/IMG_7365.jpg" width="600">
 </p>
+
+
+put these 2 in a table in GitHub markdwn
 
 ## Baked Legs & Thighs (Standalone)
 - **2-Piece:** \$8.99  
