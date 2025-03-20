@@ -1,8 +1,9 @@
 # Amy's Kitchen
 
-<p align="center">
-  <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/ak.png" alt="Amy's Kitchen" width="800">
-</p>
+| Good Food | Available All Night |
+| ---- | ----- |
+| <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/ak.png" alt="Amy's Kitchen" width="800"> | <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/IMG_7365.jpg" alt="Amy's Kitchen" width="600"> |
+
 
 
 
