@@ -1,15 +1,16 @@
 # Amy's Kitchen
 
 <p align="center">
-  <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/ak.png" alt="Amy's Kitchen" width="300">
+  <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/ak.png" alt="Amy's Kitchen" width="800">
 </p>
 
 
 
 
 # After-Hours Menu 
-
-![Baked Chicken](https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/IMG_7365.jpg)
+<p align="center">
+  <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/IMG_7365.jpg" width="300">
+</p>
 
 ## Baked Legs & Thighs (Standalone)
 - **2-Piece:** \$8.99  
