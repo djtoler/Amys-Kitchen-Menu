@@ -1,7 +1,7 @@
 # Amy's Kitchen
 
 <p align="center">
-  <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/ak.png" alt="Amy's Kitchen">
+  <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/ak.png" alt="Amy's Kitchen" width="300">
 </p>
 
 
