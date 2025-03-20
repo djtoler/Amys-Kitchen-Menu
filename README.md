@@ -1,5 +1,10 @@
-# Amys-Kitchen-Menu
-Menu for Amy’s Kitchen
+# Amy's Kitchen
+
+<p align="center">
+  <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/ak.png" alt="Amy's Kitchen">
+</p>
+
+
 
 
 # After-Hours Menu 
