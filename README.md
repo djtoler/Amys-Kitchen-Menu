@@ -5,17 +5,6 @@
 | <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/ak.png" alt="Amy's Kitchen" width="800"> | <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/IMG_7365.jpg" alt="Amy's Kitchen" width="600"> |
 
 
-
-
-
-
-<p align="center">
-  <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/IMG_7365.jpg" width="600">
-</p>
-
-
-put these 2 in a table in GitHub markdwn
-
 ## Baked Legs & Thighs (Standalone)
 - **2-Piece:** \$8.99  
 - **3-Piece:** \$11.99  
