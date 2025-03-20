@@ -9,7 +9,7 @@
 
 # After-Hours Menu 
 <p align="center">
-  <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/IMG_7365.jpg" width="300">
+  <img src="https://github.com/djtoler/Amys-Kitchen-Menu/blob/main/IMG_7365.jpg" width="600">
 </p>
 
 ## Baked Legs & Thighs (Standalone)
